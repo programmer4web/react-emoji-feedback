@@ -1,6 +1,6 @@
 {
-  "name": "react-emoji-feedback",
-  "version": "1.0.0",
+  "name": "@evaficy/react-emoji-feedback",
+  "version": "1.0.1",
   "description": "A highly customizable React component for emoji-based ratings and feedback with smooth animations and multiple interaction modes.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",

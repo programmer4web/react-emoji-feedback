@@ -7,15 +7,15 @@ A highly customizable React component for emoji-based ratings and feedback with 
 ## Installation
 
 ```bash
-npm install react-emoji-feedback
+npm install @evaficy/react-emoji-feedback
 # or
-yarn add react-emoji-feedback
+yarn add @evaficy/react-emoji-feedback
 ```
 
 ## Quick Start
 
 ```jsx
-import { EmojiFeedback } from 'react-emoji-feedback';
+import { EmojiFeedback } from '@evaficy/react-emoji-feedback';
 
 function App() {
   return (
