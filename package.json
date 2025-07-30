@@ -1,6 +1,6 @@
 {
   "name": "@evaficy/react-emoji-feedback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A highly customizable React component for emoji-based ratings and feedback with smooth animations and multiple interaction modes.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -8,6 +8,10 @@
   "files": [
     "dist"
   ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/programmer4web"
+  },
   "scripts": {
     "build": "yarn build:css && rollup -c rollup.config.js",
     "build:css": "npx postcss src/output.css -o dist/index.css --verbose",
